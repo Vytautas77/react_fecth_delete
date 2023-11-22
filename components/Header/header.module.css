@@ -1,0 +1,20 @@
+.wrapper {
+  height: 5rem;
+  background-color: rgba(174, 166, 166, 0.547);
+  padding-left: 3rem;
+  padding-right: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.addBtn {
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  background-color: rgb(95, 89, 89);
+  color: white;
+  cursor: pointer;
+}
+.addBtn:hover {
+  background-color: black;
+}
